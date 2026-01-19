@@ -23,6 +23,6 @@ DailyReminderScheduler/
  ├─ reminders.txt   # Automatically created
  └─ README.md
 ## Technologies Used
-Java 25 LTS
-VS Code 
-Git & GitHub for version control
+- Java 25 LTS
+- VS Code 
+- Git & GitHub for version control
