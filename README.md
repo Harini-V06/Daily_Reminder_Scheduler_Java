@@ -16,12 +16,14 @@ Reminders are stored in a file for persistence, so they are saved even after the
 
 ---
 ## File Structure
-DailyReminderScheduler/
- ├─ Main.java
- ├─ Reminder.java
- ├─ ReminderManager.java
- ├─ reminders.txt   # Automatically created
- └─ README.md
+
+## DailyReminderScheduler/
+- Main.java
+- Reminder.java
+ - ReminderManager.java
+ - reminders.txt   # Automatically created
+ - README.md
+ 
 ## Technologies Used
 - Java 25 LTS
 - VS Code 
