@@ -15,7 +15,7 @@ A Java console application to create, manage, and persist daily reminders — bu
  
 ## How to run
  
-**Requirements:** Java 17+ (tested on Java 25 LTS)
+**Requirements:** Java 17+ (tested on Java 21 LTS)
  
 ```bash
 # Clone
